@@ -1,6 +1,6 @@
 # 2.6 - Connecting HTML to JavaScript
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 #### The time has come! We are going to connect the front-end (HTML) to the back-end (JS)!
 
@@ -44,8 +44,6 @@ console.log(my_div.textContent);
 
 my_div.textContent = "Hi mom!";
 ```
-
-
 ## 👂 Event Listeners
 
 When a user interacts with a webpage (click, mouse move, key press, etc) this creates _events_. You can find [the entire list of events online](https://www.w3schools.com/jsref/dom_obj_event.asp).
@@ -118,8 +116,5 @@ document.getElementById("enter").addEventListener("click", say_hello);
 Congratulations!! You can now make your webpages _interactive_!
 
 **Now go check out [your task](./YOUR_TASK.md).**
-
-
 <br>
-<br>
-🐿️
+🐧
