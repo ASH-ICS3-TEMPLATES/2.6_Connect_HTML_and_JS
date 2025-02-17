@@ -1,6 +1,6 @@
 # 2.6 - Connecting HTML to JavaScript
 
-##### ICS3 - Mr. Brash 🐿️
+##### ICS3 - Mr. J 🐧
 
 # 📝 Your Task:
 
@@ -51,10 +51,5 @@ On the page is a 6-sided die emoji 🎲. This has been given the `id` of "die".
 ---
 
 Play around with Event Listeners and modifying a live webpage!
-
-
-
 <br>
-<br>
-
-🐿️
+🐧
